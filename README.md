@@ -1,5 +1,5 @@
 # ZUTCHI KEUMALEU ANGE LAUREN 👋
-🚀 Passionate about crafting reliable, scalable, and elegant web applications from **frontend to backend**, including **hosting** and **DevOps**. I enjoy turning complex problems into simple, beautiful solutions — and continuously learning in the process.
+🚀 Passionate  about crafting reliable, scalable, and elegant web applications from **frontend to backend**, including **hosting** and **DevOps**. I enjoy turning complex problems into simple, beautiful solutions — and continuously learning in the process.
 
 ---
 
